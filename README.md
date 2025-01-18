@@ -1,2 +1,2 @@
 # familyfeud.ai
-Play family Feud with AI
+Play ai-assisted Family Feud
