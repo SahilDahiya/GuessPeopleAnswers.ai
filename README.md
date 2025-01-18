@@ -1,2 +1,1 @@
-# familyfeud.ai
-Play ai-assisted Family Feud
+Play ai-assisted "what people are guessing?"
